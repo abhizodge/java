@@ -1,0 +1,14 @@
+java is a rebust programming language
+--> its automatic memomry mangment
+
+GC(Garbage Collector)--> delete a object which  is not used  a longer time 
+
+open source:- 
+--source code open for everyone
+--free to use
+
+JDK--java development kit
+JVM:-jvm take byte code input and convert machine understand language
+jdk=developmet kits+jre+jvm
+JRE =JVM+library classes
+JVM= class loder+memory areas+execution engine+nativ method interface
